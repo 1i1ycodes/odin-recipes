@@ -1,6 +1,6 @@
 ### Odin Recipes HTML Project ###
 
-Link to the [project](https://www.theodinproject.com/lessons/foundations-recipes)
+Link to the [project](https://www.theodinproject.com/lessons/foundations-recipes).
 
 # About
 
